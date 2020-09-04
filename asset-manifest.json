@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tiktok-MERN/static/css/main.2a68633e.chunk.css",
+    "main.js": "/Tiktok-MERN/static/js/main.4a193459.chunk.js",
+    "main.js.map": "/Tiktok-MERN/static/js/main.4a193459.chunk.js.map",
+    "runtime-main.js": "/Tiktok-MERN/static/js/runtime-main.9505b645.js",
+    "runtime-main.js.map": "/Tiktok-MERN/static/js/runtime-main.9505b645.js.map",
+    "static/js/2.b0323b82.chunk.js": "/Tiktok-MERN/static/js/2.b0323b82.chunk.js",
+    "static/js/2.b0323b82.chunk.js.map": "/Tiktok-MERN/static/js/2.b0323b82.chunk.js.map",
+    "index.html": "/Tiktok-MERN/index.html",
+    "precache-manifest.fdc26c8ed1c9614acef35a649755b1f8.js": "/Tiktok-MERN/precache-manifest.fdc26c8ed1c9614acef35a649755b1f8.js",
+    "service-worker.js": "/Tiktok-MERN/service-worker.js",
+    "static/css/main.2a68633e.chunk.css.map": "/Tiktok-MERN/static/css/main.2a68633e.chunk.css.map",
+    "static/js/2.b0323b82.chunk.js.LICENSE.txt": "/Tiktok-MERN/static/js/2.b0323b82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9505b645.js",
+    "static/js/2.b0323b82.chunk.js",
+    "static/css/main.2a68633e.chunk.css",
+    "static/js/main.4a193459.chunk.js"
+  ]
+}
